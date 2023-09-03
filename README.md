@@ -1,5 +1,5 @@
 
-# Bank-data-analysis
+# Bank-Data-Analysis
   Power BI report I made analyzing rest periods customers had between certain applications. Existing data is from a model bank in excell 
   that contains information about individual customers and the applications themselves. 
 
